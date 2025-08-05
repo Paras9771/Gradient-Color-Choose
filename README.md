@@ -20,7 +20,6 @@ This is a simple yet stylish Gradient Generator built using HTML, CSS, and JavaS
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📸 Preview
-
-![Gradient Generator Demo](preview.png)  
+![Gradient Generator Demo](Demo%20Image.png)   
 
 -------------------------------------------------------------------------------------------------------------------------------------
