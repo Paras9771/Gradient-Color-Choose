@@ -23,3 +23,8 @@ This is a simple yet stylish Gradient Generator built using HTML, CSS, and JavaS
 ![Gradient Generator Demo](Demo%20Image.png)   
 
 -------------------------------------------------------------------------------------------------------------------------------------
+
+## 🔗 Live Demo
+Check out the working version of this project here:  
+👉 [Live Website](https://Paras9771.github.io/Gradient-Color-Choose/)
+
