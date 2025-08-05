@@ -19,6 +19,13 @@ This is a simple yet stylish Gradient Generator built using HTML, CSS, and JavaS
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
+## 🚀 How to Use
+1. Open the website using the link below
+2. Click either color button to generate a new gradient
+3. Click on the CSS code box to copy the background style
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ## 📸 Preview
 ![Gradient Generator Demo](Demo%20Image.png)   
 
